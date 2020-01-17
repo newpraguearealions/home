@@ -1,4 +1,4 @@
-# Hew Prague Area Lions
+# New Prague Area Lions
 
 ![](images/lionlogo_2c.jpg)
 
