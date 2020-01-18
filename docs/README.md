@@ -1,6 +1,6 @@
 # New Prague Area Lions
 
-![](images/lionlogo_2c.jpg)
+![](images/lionlogo_2c.png)
 
 <!-- <img src="images/lionlogo_2c.jpg" height="250: width="250" /> -->
 
