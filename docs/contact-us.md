@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: default
 title: Contact Us
 ---
 
-# Contact
+# Contact Us
 
 call, write or email
