@@ -8,17 +8,13 @@ New Prague Area Lions is a centennial club chartered in January 2017 by local re
 ---
 
 We strive to servie our community by providing for needs based on request, or by club members identifying a need.
-- Childhood cancer Fundraiser
-- Support for Breast Cancer walk
+- Childhood cancer
+- Eye Glasses
 - Can Do Canines
-- Eagle Scout Projects
 - Supporting local schools to help students and families
 
 ## Club Projects
 ---
-
-### Mala Strana Outdoor recreation Area
-The club has begun work in partnership with Mala Strana, and local builders to design an outdoor recreation area for residents at Mala Strana.  This is a large project, and will be executed over multiple years.
 
 ### Highway Cleanup
 
@@ -31,12 +27,29 @@ The City of New Prague has several parks, and the New Prague Area Lions have ado
 ## Local fundraising
 ---
 
+### Drive Through Trick or Treat
+
+In October of each year the lions hosts a drive through trick or treat that is open to all local families.
+
+The Lions take good will donations that we use to give back to our community
+
+![](./images/haloween_1.jpeg)
+![](./images/Haloween_2.jpeg)
+![](./images/haloween_3.jpeg)
+![](./images/haloween_4.jpeg)
+
+### Lions Christmas Event
+
+In December of each year the Lions invite Santa to visit.
+
+We docorate the event and give opporunities for kids to visit with Santa.
+
+![](./images/Drive-thru-christmas.jpeg)
+
 ### Lion Mints
 - Ettlins Cafe
 - Laus Bakery 
 
-### Lions Designer bag bingo
-The lions have run several events in the past couple of years held at the New Prague KC Hall.  Proceeds for the events stay in the community.
 
 ## Club Leadership
 ---
@@ -44,8 +57,8 @@ The lions have run several events in the past couple of years held at the New Pr
 | Position | Name |
 | --------- | ------------ |
 | President | Aaron Tesch |
-| 1st Vice President | Jay Pexa |
-| 2nd Vice President | Apryl Tesch |
-| Secretary | Al Hansen |
+| 1st Vice President | Apryl Tesch |
+| 2nd Vice President | Matt Miller |
+| Secretary | Aaron Tesch |
 | Treasurer | Robert Paulen |
 | Membership Chair | Ulrich Ettlin |
