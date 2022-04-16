@@ -4,4 +4,4 @@ layout: default
 
 # Contact Us
 
-call, write or email
+E-mail the Lions at <newpraguelions@gmail.com>
